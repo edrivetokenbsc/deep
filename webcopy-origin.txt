@@ -1,0 +1,308 @@
+Uri: https://app.deepspace.game/manifest.json
+File Name: C:\Downloaded Web Sites\app.deepspace.game\manifest-2.json
+Content Type: application/json
+
+Uri: https://app.deepspace.game/outpost/ships
+File Name: C:\Downloaded Web Sites\app.deepspace.game\outpost\ships
+Content Type: text/html
+
+Uri: https://app.deepspace.game/site.webmanifest
+File Name: C:\Downloaded Web Sites\app.deepspace.game\site-2.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://app.deepspace.game/_next/static/chunks/088d5a4e-a892f5d812e628ea.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\088d5a4e-a892f5d812e628ea-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/159-0c033fdfd7fc3c53.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\159-0c033fdfd7fc3c53-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/1967-5a54958f2d53378c.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\1967-5a54958f2d53378c-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/1a48c3c1-6aa814969c4a51bd.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\1a48c3c1-6aa814969c4a51bd-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/1bfc9850-eee72e9282c5bba4.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\1bfc9850-eee72e9282c5bba4-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/2113-4d3104df102d8157.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\2113-4d3104df102d8157-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/252f366e-5e059178673937fa.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\252f366e-5e059178673937fa-3.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/2791-3cdf645b9a7a886a.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\2791-3cdf645b9a7a886a-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/29107295-4a69275373f23f88.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\29107295-4a69275373f23f88-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/5360-ec635bca01240bcd.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\5360-ec635bca01240bcd-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/5851-1d512a37f34724e7.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\5851-1d512a37f34724e7-1.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/6728d85a-8cf02d1c69f939c4.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\6728d85a-8cf02d1c69f939c4-1.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/7763-0b599c3bb3b4deee.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\7763-0b599c3bb3b4deee-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/7892-0ce25a9997c88af6.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\7892-0ce25a9997c88af6-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/78e521c3-5dbd47371783d4ab.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\78e521c3-5dbd47371783d4ab-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/7f0c75c1-13ab7fe5f8c31d9a.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\7f0c75c1-13ab7fe5f8c31d9a-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/87a06baf-5009dc9d7676d81b.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\87a06baf-5009dc9d7676d81b-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/9219-84f1aff6d5ba2067.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\9219-84f1aff6d5ba2067-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/9286-1c8cc9c8a6420761.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\9286-1c8cc9c8a6420761-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/9347-63e806353f1e3956.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\9347-63e806353f1e3956-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/9868-33091ea167fc889d.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\9868-33091ea167fc889d-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/d64684d8-1933710f52eeeeda.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\d64684d8-1933710f52eeeeda-1.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/d7eeaac4-af04b79d8d6fd305.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\d7eeaac4-af04b79d8d6fd305-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/ea88be26-8367bf129151bc61.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\ea88be26-8367bf129151bc61-4.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/framework-79bce4a3a540b080.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\framework-79bce4a3a540b080-6.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/main-233329eb5075b1f3.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\main-233329eb5075b1f3-6.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/pages/outpost/ships-e30e5733c3a1c801.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\pages\outpost\ships-e30e5733c3a1c801-1.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/pages/_app-f4446917de1ab47e.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\pages\_app-f4446917de1ab47e-6.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\polyfills-5cd94c89d3acac5f-6.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/chunks/webpack-0e3b5ef1d0491be7.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\chunks\webpack-0e3b5ef1d0491be7-6.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/css/034c72de6f9c080f.css
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\css\034c72de6f9c080f-4.css
+Content Type: text/css
+
+Uri: https://app.deepspace.game/_next/static/css/22c1eb93bc4e3a04.css
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\css\22c1eb93bc4e3a04-6.css
+Content Type: text/css
+
+Uri: https://app.deepspace.game/_next/static/css/f17822b88078516f.css
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\css\f17822b88078516f-4.css
+Content Type: text/css
+
+Uri: https://app.deepspace.game/_next/static/pobpvRNxSIkTmj1dZ-Pdx/_buildManifest.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\pobpvRNxSIkTmj1dZ-Pdx\_buildManifest-6.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/pobpvRNxSIkTmj1dZ-Pdx/_middlewareManifest.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\pobpvRNxSIkTmj1dZ-Pdx\_middlewareManifest-6.js
+Content Type: application/javascript
+
+Uri: https://app.deepspace.game/_next/static/pobpvRNxSIkTmj1dZ-Pdx/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\app.deepspace.game\_next\static\pobpvRNxSIkTmj1dZ-Pdx\_ssgManifest-6.js
+Content Type: application/javascript
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-114x114-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-114x114-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-120x120-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-120x120-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-120x120-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-144x144-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-144x144-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-144x144-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-152x152-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-152x152-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-152x152-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-180x180-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-180x180-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-180x180-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-57x57-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-57x57-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-57x57-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-60x60-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-60x60-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-60x60-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-72x72-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-72x72-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-76x76-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-76x76-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-76x76-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon-precomposed.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-precomposed-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\apple-touch-icon-4.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\favicon-32x32-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\favicon-96x96-6.png
+Content Type: image/png
+
+Uri: https://assets.deepspace.game/app/icons/favicon.ico
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\icons\favicon-6.ico
+Content Type: image/x-icon
+
+Uri: https://dev-assets.deepspace.game/app/deepspace-background.jpg
+File Name: C:\Downloaded Web Sites\app.deepspace.game\app\deepspace-background-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.gstatic.com/s/goldman/v15/pe0rMIWbN4JFplR2FI5XEt-aBvRoe1QQVg.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\goldman\v15\pe0rMIWbN4JFplR2FI5XEt-aBvRoe1QQVg-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/goldman/v15/pe0rMIWbN4JFplR2FI5XEt6aBvRoe1QQVg.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\goldman\v15\pe0rMIWbN4JFplR2FI5XEt6aBvRoe1QQVg-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/goldman/v15/pe0rMIWbN4JFplR2FI5XEtCaBvRoe1Q.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\goldman\v15\pe0rMIWbN4JFplR2FI5XEtCaBvRoe1Q-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/goldman/v15/pe0rMIWbN4JFplR2FI5XItQ.woff
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\goldman\v15\pe0rMIWbN4JFplR2FI5XItQ-6.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/goldman/v15/pe0uMIWbN4JFplR2HDpyB_24C95Scg.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\goldman\v15\pe0uMIWbN4JFplR2HDpyB_24C95Scg-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/goldman/v15/pe0uMIWbN4JFplR2HDtyB_24C95Scg.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\goldman\v15\pe0uMIWbN4JFplR2HDtyB_24C95Scg-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/goldman/v15/pe0uMIWbN4JFplR2HDVyB_24C94.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\goldman\v15\pe0uMIWbN4JFplR2HDVyB_24C94-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/goldman/v15/pe0uMIWbN4JFplR2LDE.woff
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\goldman\v15\pe0uMIWbN4JFplR2LDE-6.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVeww.woff
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\lato\v23\S6u9w4BMUTPHh6UVeww-6.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\lato\v23\S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\lato\v23\S6u9w4BMUTPHh6UVSwiPGQ3q5d0-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXiWtFCc.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\lato\v23\S6uyw4BMUTPHjx4wXiWtFCc-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\lato\v23\S6uyw4BMUTPHjxAwXiWtFCfQ7A-6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHvxo.woff
+File Name: C:\Downloaded Web Sites\app.deepspace.game\s\lato\v23\S6uyw4BMUTPHvxo-6.woff
+Content Type: font/woff
+
